@@ -14,7 +14,7 @@
 3. Constructors;
 
 ### Tasks
-1. Define struct Car which have the following fields:
+1. Define **struct Car** which have the following fields:
     -   brand name up to 127 symbols;
     -   model name up to 127 symbols;
     -   number of horse powers;
@@ -29,4 +29,6 @@
 
 3. Make a constructor for the car with all the fields(afterwards can you define a variable with type that struct the way we used to do in the last course?);
 
-4. Make an array of N cars, enter them from the console and print the slowest one and the most economical one(maybe they are the same? idk);
+4. Make a default constructor(which does not have parameters). It should set the default values of the fields.
+
+5. Make an array of N cars, enter them from the console and print the slowest one and the most economical one(maybe they are the same? idk);
