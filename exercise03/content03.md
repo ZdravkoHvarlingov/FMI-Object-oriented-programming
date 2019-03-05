@@ -27,7 +27,7 @@
     - operator == which compares two Persons;
     - AddChild method;
 
-###BONUS TASKS: 
+### Bonus tasks 
 1. Given the root of the parents tree(Person object which has child but no parents) make a function which prints all the Person objects which have no children.
 2. Solve the task with the brackets allowing the text to have different kinds of brackets( '(', '{', '[' ), for example:
     - ({}()[{}]) is valid;
