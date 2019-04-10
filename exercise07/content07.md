@@ -94,7 +94,7 @@ Node* GetMiddleNode(Node *head)
 }
 ```
 
-9. Write the following function:
+10. Write the following function:
 ```
 //Creates a new list
 Node* Reverse(Node *head)
@@ -103,15 +103,15 @@ Node* Reverse(Node *head)
 }
 ```
 
-10. Write the following function:
+11. Write the following function:
 ```
-Node* FindTheNthFromTheEnd(Node *head)
+Node* FindTheNthFromTheEnd(Node *head, int n)
 {
 
 }
 ```
 
-11. Write the following function:
+12. Write the following function:
 ```
 Node* DeleteNNodesAfterMNodes(Node *head, int n, int m)
 {
@@ -119,7 +119,7 @@ Node* DeleteNNodesAfterMNodes(Node *head, int n, int m)
 }
 ```
 
-12. Write the following function: (Maybe write down a new function which gets the minimum of a linked list and a function which deletes an element from the linked list)
+13. Write the following function: (Maybe write down a new function which gets the minimum of a linked list and a function which deletes an element from the linked list)
 ```
 //Creates a new list
 Node* SortLinkedList(Node *head)
@@ -128,9 +128,9 @@ Node* SortLinkedList(Node *head)
 }
 ```
 
-13. Write the following function:
+14. Write the following function:
 ```
-bool *CheckIfPalindrome(Node *head)
+bool CheckIfPalindrome(Node *head)
 {
 
 }
