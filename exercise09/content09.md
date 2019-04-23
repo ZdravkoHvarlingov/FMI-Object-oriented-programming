@@ -15,8 +15,7 @@
     -   what happens?
     -   Do we lose information?
 
-4. Virtual methods, Pure virtual methods(abstract methods) and abstract classes.
-
+4. Virtual methods;
 
 ### Tasks
 1. We want to make a veterinary, which has different animals: cats, dogs, horses.
