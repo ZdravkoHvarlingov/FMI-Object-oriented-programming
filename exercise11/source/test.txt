@@ -1,0 +1,7 @@
+line1
+line2
+Hello world
+aaa
+bbb
+1234567890
+END
