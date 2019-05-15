@@ -12,7 +12,7 @@ We want to make a collection of classes having the following requirements:
     -   string **ProcessRequest(string msg)** - accepts message, processes it and returns an answer;
 2. There are severals types of servers which process the request in a different way
     -   a **DBTextServer** - accepts the message and stores it. The answer is whether the message was saved or not;
-    -   a **MathServer** - accepts a message in the format "<number1> <number2>", where <number1> is a non-negative integer(if the format is not as expected the answer announces it). The answer is the sum of the numbers(**AdditionServer**) or their product(**MultiplicationServer**);
+    -   a **MathServer** - accepts a message in the format "**number1 number2**", where **number1** is a non-negative integer(if the format is not as expected the answer announces it). The answer is the sum of the numbers(**AdditionServer**) or their product(**MultiplicationServer**);
 
 3. There is a class **Network** with the following features:
     -   stores a collection of servers of different types;
